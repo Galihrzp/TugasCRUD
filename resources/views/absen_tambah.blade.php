@@ -27,7 +27,7 @@
             @csrf
             <div class="mb-3">
                 <label class="form-label">Nomor Absen</label>
-                <input type="number" name="no_absen" class="form-control" placeholder="Contoh: 1" required>
+                <input type="number" name="no_absen" class="form-control" placeholder="1" required>
             </div>
             <div class="mb-3">
                 <label class="form-label">Nama Lengkap</label>
